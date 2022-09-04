@@ -1,6 +1,6 @@
 ## I AM A TRUE CRYPTO ENTHUSIAST! 
 
-![1](https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png)
+<img align="right" alt="JPEG" src="https://user-images.githubusercontent.com/79307419/188294971-4b3aef8f-8310-4ae0-940a-526f07dee520.png" width="375" height="375" />
 
 Work full day and night! Like helping projects and the crypto community!
 
