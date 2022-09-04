@@ -3,4 +3,5 @@ I'm testing the wallet, leaving feedback.
 
 I create video reviews and cover the project.
 
-![image](https://user-images.githubusercontent.com/79307419/188294279-11faa369-9a93-40a1-bbe7-1b5d9c2ad976.png)
+![image](https://user-images.githubusercontent.com/79307419/188294311-c7b55ea6-9507-40bb-b448-272f3bf535ac.png)
+
