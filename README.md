@@ -37,6 +37,7 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 - [Goldfinch](https://github.com/Vagif85/My-Contributions/blob/main/Goldfinch.md)
 - [HydraDX](https://github.com/Vagif85/My-Contributions/blob/main/HydraDX.md)
 - [Interlay](https://github.com/Vagif85/My-Contributions/blob/main/Interlay.md)
+- [IslamicCoin](https://github.com/Vagif85/My-Contributions/blob/main/HAQQ.md)
 - [Joystream](https://github.com/Vagif85/My-Contributions/blob/main/Joystream.md)
 - [Koii](https://github.com/Vagif85/My-Contributions/blob/main/Koii.md)
 - [MINA Protocol](https://github.com/Vagif85/My-Contributions/blob/main/MINA%20Protocol.md)
