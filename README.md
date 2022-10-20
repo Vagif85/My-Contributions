@@ -42,6 +42,7 @@ Thus, we help three parties to be useful (for personal growth, for the project a
 - [Koii](https://github.com/Vagif85/My-Contributions/blob/main/Koii.md)
 - [MINA Protocol](https://github.com/Vagif85/My-Contributions/blob/main/MINA%20Protocol.md)
 - [MOONBEAM](https://github.com/Vagif85/My-Contributions/blob/main/MOONBEAM.md)
+- [Sei](https://github.com/Vagif85/My-Contributions/blob/main/SEI.md)
 - [Solana](https://github.com/Vagif85/My-Contributions/blob/main/Solana.md)
 - [SubQuery](https://github.com/Vagif85/My-Contributions/blob/main/SubQuery.md)
 - [TALLY](https://github.com/Vagif85/My-Contributions/blob/main/TALLY.md)
